@@ -1,18 +1,36 @@
-Hi! Let me introduce to you my version of movie-land! This app is built with React.js and some CSS styles.
-This app lets you search movies or TV series by your request.
-Every time you make a request, you will get a response of pictures that shows TV show themes.
-To use this app you can download this repository and then run `npm install` in your console or terminal.
-After that please run `npm start`, and it will run the app in the development mode.
-To open this app in your browser, please enter [ http://localhost:3000/movie-land]( http://localhost:3000/movie-land).
-The page will reload its content, when you make changes to search field and then push enter key or search ico.
+# Movie-land
+Hi!
 
-Here some more useful info you may want to read.
-`npm test`
+Let me introduce to you my version of **movie-land** app! 
+
+
+This app lets you search movies or TV series by your request.
+
+This app is built with **React.js** using JavaScript, **webpack**, some **CSS** styles, and it uses an **API** from movie database.
+***
+Every time you make a request, you'll get a response from the API and some screensavers with TV show themes.
+If there's no splash screen for a particular show, you'll see an image that says so.
+
+
+To use this app you can download this repository and then run `npm install` in your console or terminal.
+
+After that please run `npm start`, and it will run the app in the development mode.
+
+
+Then to open this app in your browser, please enter `http://localhost:3000/movie-land`.
+
+
+The page will reload its content, when you make changes to search field and then push "enter" key or search ico.
+***
+Here is some more useful information you may want to read.
+
+
+**`npm test`**
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-`npm run build`
+**`npm run build`**
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -21,7 +39,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-`npm run eject`
+**`npm run eject`**
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
@@ -36,19 +54,19 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-`Code splitting`
+**`Code splitting`**
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-`Analyzing the Bundle Size`
+**`Analyzing the Bundle Size`**
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-`Making a Progressive Web App`
+**`Making a Progressive Web App`**
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-`Advanced Configuration`
+**`Advanced Configuration`**
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
