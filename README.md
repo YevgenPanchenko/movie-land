@@ -4,20 +4,21 @@ Hi!
 Let me introduce to you my version of **movie-land** app! 
 
 
-This app lets you search movies or TV series by your request.
+This app allows you to search for cover images of movies or series by your request.
 
 This app is built with **React.js** using JavaScript, **webpack**, some **CSS** styles, and it uses an **API** from movie database.
 ***
-Every time you make a request, you'll get a response from the API and some screensavers with TV show themes.
-If there's no splash screen for a particular show, you'll see an image that says so.
+Every time you make a request, you'll get a response from the API and some cover images from TV shows or movies.
+If there's no cover image for a particular show or movie, you'll see an image that says so.
 
 
 To use this app you can download this repository and then run `npm install` in your console or terminal.
+It will create a node_modules folder and download all the modules there.
 
 After that please run `npm start`, and it will run the app in the development mode.
 
 
-Then to open this app in your browser, please enter `http://localhost:3000/movie-land`.
+Then to open this app in your browser, please go to `http://localhost:3000/movie-land`.
 
 
 The page will reload its content, when you make changes to search field and then push "enter" key or search ico.
